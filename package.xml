@@ -4,6 +4,8 @@
   <license>BSD</license>
 
   <!-- Dependencies which this package needs to build itself. -->
+  <description>rikirobot gui</description>
+  <maintainer email="304050118@qq.com">kevin</maintainer>
   <buildtool_depend>catkin</buildtool_depend>
 
   <!-- Dependencies needed to compile this package. -->

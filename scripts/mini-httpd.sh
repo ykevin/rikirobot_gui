@@ -14,4 +14,5 @@ sleep 1
 
 echo "Launching mini-httpd..."
 
-/usr/sbin/mini-httpd -C `rospack find rikirobot_gui`/scripts/mini-httpd.conf -d `rospack find rikirobot_gui`
+/usr/sbin/mini_httpd -C `rospack find rikirobot_gui`/scripts/mini-httpd.conf -d `rospack find rikirobot_gui`
+

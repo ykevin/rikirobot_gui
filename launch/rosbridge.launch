@@ -1,6 +1,6 @@
 <launch>
 
-  <rosparam ns="/rikirobot_gui">
+  <rosparam ns="/robot_gui">
      maxLinearSpeed: 0.5
      maxAngularSpeed: 2.0
      videoTopic: /camera/rgb/image_raw
